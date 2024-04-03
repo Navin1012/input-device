@@ -1,0 +1,24 @@
+*
+ {
+    margin: 0;
+    padding: 0;
+}
+.main {
+    padding-left: 150px;
+    background-color: rgb(135, 124, 120);
+    font-size: 30px;
+}
+.main img{
+    width: 400px;
+}
+.main h1{
+    font-size: 100px;
+    color: rgb(96, 52, 26);
+    
+}
+.main  ul {
+    padding-left: 150px;
+}
+.main ol{
+    padding-left: 70px;
+}
