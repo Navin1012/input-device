@@ -5,6 +5,7 @@
 }
 .main {
     padding-left: 150px;
+    padding-right: 100px;
     background-color: rgb(135, 124, 120);
     font-size: 30px;
 }
@@ -21,4 +22,25 @@
 }
 .main ol{
     padding-left: 70px;
+}
+@media only screen and (max-width:766px){
+
+    .main{
+        font-size:10px ;
+        padding-left: 20%;
+        padding-right: 20%;
+    }
+    .main h1{
+        font-size: 20px;
+    }
+    .main img{
+        width: 200px;
+    }
+    .main  ul {
+        padding-left: 50px;
+    }
+    .main ol{
+        padding-left: 20px;
+    }
+
 }
